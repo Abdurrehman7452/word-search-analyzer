@@ -74,3 +74,9 @@ A Python-based desktop application that allows users to search for words across 
 - If a non-.txt file is selected or if the file cannot be read, a popup will notify the user.
 
 - If no search term is entered, an error message will prompt the user.
+
+## 🧾 References
+1. GeeksforGeeks - KMP Algorithm
+2. YouTube - KMP Algorithm Explanation
+3. GeeksforGeeks - Tkinter Basics
+4. GeeksforGeeks - os.path.basename
