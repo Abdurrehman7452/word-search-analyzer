@@ -34,33 +34,33 @@ _
 
 ## 🧪 How to Use the Application
 
-# Launching the Application:
+### Launching the Application:
 
 - Run the script using Python in an environment where Tkinter is available.
 
-# Selecting Files:
+### Selecting Files:
 
 - Click the "Select Files" button to open a file dialog.
 
 - Choose one or more .txt files you want to search.
 
-# Entering the Search Term:
+### Entering the Search Term:
 
 - Type your search term in the field labeled "Enter Search Term".
 
-# Setting Search Options:
+### Setting Search Options:
 
 - Check "Whole Word Match" to restrict results to full word matches only.
 
 - Check "Case Sensitive" to enforce exact case matches.
 
-#Initiating the Search:
+### Initiating the Search:
 
 - Click the "Search" button.
 
 - The application will display the results, including match positions and timing for both algorithms.
 
-# Viewing Results:
+### Viewing Results:
 
  - Output includes:
 
@@ -70,7 +70,7 @@ _
 
 ⏱️ Time taken by Brute Force and KMP algorithms
 
-# Error Handling:
+### Error Handling:
 
 - If a non-.txt file is selected or if the file cannot be read, a popup will notify the user.
 
