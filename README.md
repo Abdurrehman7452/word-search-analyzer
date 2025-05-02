@@ -12,8 +12,7 @@ A Python-based desktop application that allows users to search for words across 
 
 ## 📸 GUI Preview
 
-> _![image](https://github.com/user-attachments/assets/55dc8aa3-0806-4c41-a2a5-618e89182f86)
-_
+> ![image](https://github.com/user-attachments/assets/55dc8aa3-0806-4c41-a2a5-618e89182f86)
 
 ## 🛠️ Technologies Used
 
@@ -64,11 +63,11 @@ _
 
  - Output includes:
 
-📄 File name where the term is found
+    - 📄 File name where the term is found
 
-🔢 Line number and column position
+    - 🔢 Line number and column position
 
-⏱️ Time taken by Brute Force and KMP algorithms
+    - ⏱️ Time taken by Brute Force and KMP algorithms
 
 ### Error Handling:
 
